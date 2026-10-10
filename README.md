@@ -1,4 +1,4 @@
-![My Image](me.jpg)
+![My Image](me.png)
 
 # About Me
 
